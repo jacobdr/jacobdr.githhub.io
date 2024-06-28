@@ -2,19 +2,6 @@
 
 Derived from [Astro Nano](https://github.com/markhorn-dev/astro-nano)
 
-## 💯 Lighthouse score
-![Astro Nano Lighthouse Score](_lighthouse.png)
-
-## 🕊️ Lightweight
-No frameworks or added bulk
-
-## ⚡︎ Fast
-Rendered in ~40ms on localhost
-
-## 📄 Configuration
-
-The blog posts on the demo serve as the documentation and configuration.
-
 ## 💻 Commands
 
 All commands are run from the root of the project, from a terminal:

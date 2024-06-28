@@ -2,6 +2,7 @@
   "name": "jacobdr-github-io",
   "type": "module",
   "version": "1.0.0",
+  "license": "MIT",
   "scripts": {
     "dev": "astro dev",
     "dev:network": "astro dev --host",
